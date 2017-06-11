@@ -2,7 +2,7 @@
 Test Project for Hosted CI Tests
 ================================
 
-This is useless for anything else
+This is useless for anything else.  Now twice as good!
 
 
 Sphinx Documentation
